@@ -19,7 +19,9 @@ Tarea1ANCC.compareStrings("お姉ちゃん", "お兄ちゃん") # retorna "お�
 ```
 
 También es posible usar la herramienta `tester.py` para probar un conjunto de casos de prueba de forma automática.
+
 Requiere que exista un archivo llamado `tests.txt`, el cual tiene en cada linea los parámetros a probar y el resultado esperado. Estos datos deben estar separados por tabulaciones.
+
 Genera un archivo llamado `results.txt`, el cual también está separado por tabulaciones. El primer elemento es lo que retornó la función al ejecutarla con los parámetros entregados, luego `True` o `False` si el valor de retorno era el valor esperado, finalmente la fecha y hora de la prueba.
 
 ```bash
