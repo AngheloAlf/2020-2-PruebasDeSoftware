@@ -1,0 +1,19 @@
+corta	True	2020-09-11 18:00:37
+ayúdame yo tengo muchos quereceres	True	2020-09-11 18:00:37
+My name is Bond, James Bond	True	2020-09-11 18:00:37
+お姉ちゃん	True	2020-09-11 18:00:37
+фраза очень много длинная	True	2020-09-11 18:00:37
+(◕‿◕✿)	True	2020-09-11 18:00:37
+Dame un abrazo	True	2020-09-11 18:00:37
+mi-ai frânt inima	True	2020-09-11 18:00:37
+no importa el idioma ni el largo del string, es probable que esta función se utilice para poder comparar cadenas de caracteres de codificaciones	True	2020-09-11 18:00:37
+tengo hambre	True	2020-09-11 18:00:37
+arriba los corazones	True	2020-09-11 18:00:37
+💄👠👞🎒👔👕🖌✒🧵🧷👙🕶💍	True	2020-09-11 18:00:37
+65 73 74 65 20 65 73 20 75 6E 20 65 6A 65 6D 70 6C 6F 20 64 65 20 65 6E 63 72 69 70 74 61 63 69 C3 B3 6E	True	2020-09-11 18:00:37
+running out of tests	True	2020-09-11 18:00:37
+fini	True	2020-09-11 18:00:37
+🤌🏽🥲🤌🏽	True	2020-09-11 18:00:37
+这个字符串应该更长	True	2020-09-11 18:00:37
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec  interdum quam, nec aliquam odio. Morbi elementum vel erat nec eleifend.  Quisque venenatis enim sagittis, efficitur elit sit amet, sagittis odio.  Proin id condimentum leo. Ut nec lectus magna. Suspendisse vehicula a  eros vitae auctor. Duis consequat placerat malesuada. Aenean eu nulla  quis dolor rutrum elementum in in orci. Sed sodales, nisi eget vulputate  lacinia, ex nisl semper justo, id aliquam libero nisi ac nibh. Maecenas ac risus eget felis efficitur imperdiet id eget lorem. Aliquam  erat volutpat. Cras rhoncus quam id magna ullamcorper condimentum.  Vestibulum a lacus vel est tristique cursus. Etiam dignissim orci sit  amet lectus laoreet, gravida porttitor neque consequat. Interdum et  malesuada fames ac ante ipsum primis in faucibus. Phasellus efficitur  viverra tincidunt. Proin tortor justo, fermentum non aliquet in,  efficitur et justo. Sed a molestie metus. Nulla rhoncus a orci eu  ultrices. Donec lobortis nibh consectetur, euismod tellus sed, dignissim  enim. Ut ut nunc egestas, venenatis massa quis, tincidunt mi. Etiam  dictum nec felis in accumsan. Cras fringilla ante eu consectetur varius. Phasellus tempor, metus nec iaculis iaculis, ante elit bibendum arcu, et  molestie augue massa et ipsum. Cras nisi velit, pharetra sed vestibulum  vel, lobortis quis quam. Phasellus vehicula suscipit augue, tempus  feugiat tellus bibendum vitae. Sed suscipit ut sem nec varius. Donec nec  augue dictum, aliquam orci a, ultricies sapien. Nulla convallis mauris  felis, posuere posuere mi posuere eu. Aenean dictum nulla a orci  accumsan tempus. Class aptent taciti sociosqu ad litora torquent per  conubia nostra, per inceptos himenaeos. Fusce ultrices lectus quis  finibus malesuada. Fusce ac volutpat odio. Duis at finibus enim. Nam  commodo, libero et aliquam consequat, massa metus convallis ipsum, et  laoreet nunc augue euismod metus. Praesent a efficitur sapien. Vivamus interdum ligula vel arcu sagittis,  feugiat dapibus ante rhoncus. Mauris vehicula elit nunc, ut condimentum  purus egestas nec. Aliquam efficitur suscipit nunc sit amet malesuada.  Sed tincidunt nibh ac felis ultricies pulvinar. Maecenas semper, orci  interdum finibus pretium, quam nisi aliquet metus, eget malesuada sapien  magna eu magna. Aenean lacinia pulvinar accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per  inceptos himenaeos. Phasellus nec hendrerit diam. Nulla facilisi. Donec  lobortis nulla eu dapibus mattis. Aenean mollis augue venenatis tempus  volutpat. In porta euismod accumsan. Duis a mi quis mi vehicula aliquam  quis in lacus. Pellentesque condimentum blandit egestas. Nam tincidunt  fermentum enim eu vulputate. Aenean in mi maximus, cursus velit et,  dictum lectus. Vivamus vestibulum convallis vehicula.	True	2020-09-11 18:00:37
+Esta frase es larga	True	2020-09-11 18:00:37
